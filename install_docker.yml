@@ -1,5 +1,0 @@
-- name: Test Connectivity
-  hosts: development
-  tasks:
-   - name: Ping test
-     ping:
