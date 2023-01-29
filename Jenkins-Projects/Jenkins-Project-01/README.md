@@ -7,7 +7,7 @@ This project aims to create a Jenkins pipeline to deploy web-page written Nodejs
 
 ## Problem Statement
 
-![Project_007](ansible.png)
+![Project_007](Jenkins_1288X600.jpg)
 
 - Clarusway has recently ended up a project that aims to server as web page. You and your colleagues are assigned to work on this project. Developer team has done with code and DevOps team is going to deploy the app in production environment using ansible.
 
@@ -130,7 +130,7 @@ In the architecture, you can configure your architecture with these conditions,
 
 ## Expected Outcome
 
-![Todo Web Page](./todo_web.png)
+![Todo Web Page](Yasin_todos.jpg)
 
 ### At the end of the project, following topics are to be covered;
 
